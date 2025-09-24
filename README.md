@@ -1,1 +1,1 @@
-# AWS-Prep
+# AWS Certified Cloud Practitioner Prep
